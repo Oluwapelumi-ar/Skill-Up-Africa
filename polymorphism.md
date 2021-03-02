@@ -1,4 +1,4 @@
-#Polymorphism
+Polymorphism
 
 Polymorphism simply means having many forms
 It is the ability of an object to take on many forms.
